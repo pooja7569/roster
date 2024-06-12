@@ -1,0 +1,12 @@
+[
+    {
+        "firstName": "Dedeepya",
+        "shifts": {
+            "2024-06-01": "PST",
+            "2024-06-02": "IST First",
+            "2024-06-03": "IST Second",
+            "2024-06-04": "General",
+            "2024-06-05": "Leave"
+        }
+    }
+]
